@@ -5,5 +5,5 @@ Arduino automation for a still. Interfaces with
 
 ## Requirements
 
-* PID_v1
-* MAX6675-library
+* [PID_v1](https://github.com/br3ttb/Arduino-PID-Library)
+* [MAX6675-library](https://github.com/adafruit/MAX6675-library)
