@@ -5,5 +5,5 @@ Arduino automation for a still. Interfaces with
 
 ## Requirements
 
-* PyQt5
-* PySerial
+* PID_v1
+* MAX6675-library
